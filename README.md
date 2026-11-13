@@ -173,4 +173,4 @@ docker compose down
 
 ## Author
 
-**Oussama Chentouf** — YouCode, AI Development.
+**Oussama Chentouf**.
